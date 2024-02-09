@@ -4,6 +4,7 @@ Here are some introductory lessons and exercises on data analysis in Python. Thi
 
 Lessons/
     1_data_structure
+    2_introduction_to_NumPy
 
 ### ChatGPT Information
 
